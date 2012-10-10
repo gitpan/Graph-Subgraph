@@ -20,4 +20,4 @@ no_index:
 requires:
   Graph: 0
   Test::More: 0
-version: 0.0202
+version: 0.0203
