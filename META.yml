@@ -18,6 +18,8 @@ no_index:
     - t
     - inc
 requires:
+  Carp: 0
   Graph: 0
+  Test::Exception: 0
   Test::More: 0
-version: 0.0203
+version: 0.0204
